@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 👨‍🎓 Estudante
+##- 👨‍🎓 Estudante
 - 📚 Bacharelado em Ciência da Computação
 - 💻 Estudando IA em python...
 - 😄 Pronouns: ele/dele
