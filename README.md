@@ -13,8 +13,6 @@
     <h1 align="center">Experiência em</h1>
     <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="cpp-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
 
 <h1 align="center">Redes Sociais</h1>
