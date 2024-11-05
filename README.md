@@ -36,19 +36,18 @@
 ###
 
 <div align="center">  
-  <img  height="195px" src="https://github-readme-stats.vercel.app/api?username=cauanlsreis&show_icons=true&count_private=true&hide_border=true&title_color=006400&icon_color=006400&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauanlsreis&layout=compact&hide_border=true&title_color=006400&text_color=006400&bg_color=0d1117" />
+  <img width=49% height="195px" src="https://github-readme-stats.vercel.app/api?username=cauanlsreis&show_icons=true&count_private=true&hide_border=true&title_color=006400&icon_color=006400&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img  width=41% height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauanlsreis&layout=compact&hide_border=true&title_color=006400&text_color=006400&bg_color=0d1117" />
 </div>
 
 ###
 
-<div align="center">
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cauanlsreis/cauanlsreis/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cauanlsreis/cauanlsreis/output/github-contribution-grid-snake-dark.svg">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cauanlsreis/cauanlsreis/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cauanlsreis/cauanlsreis/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cauanlsreis/cauanlsreis/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cauanlsreis/cauanlsreis/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ###
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=80&section=footer"/>
