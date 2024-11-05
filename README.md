@@ -33,9 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-
 ###
-<div align="center">  
+
+<div align="left">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cauanlsreis&show_icons=true&count_private=true&hide_border=true&title_color=006400&icon_color=006400&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauanlsreis&layout=compact&hide_border=true&title_color=006400&text_color=006400&bg_color=0d1117" />
 </div>
