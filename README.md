@@ -16,7 +16,7 @@
 
 <p align="left">Desenvolvedor em formação e estudante do 6º período de Ciência da Computação, com interesse em Cibersegurança, Visão Computacional e Bioinformática. Tenho experiência em Python e tecnologias como OpenCV e Mediapipe, com foco em projetos de análise de performance física e soluções aplicadas. Sou apaixonado por aprender e explorar novas ferramentas, sempre buscando aprimorar minhas habilidades e contribuir com projetos práticos e inovadores.
 
-<img align="right" alt="" height="250px" src="coding.gif">
+<img align="right" alt="" height="250px" src="happycoder.gif">
 
 <h3 align="left">Connect with me!</h3>
 
