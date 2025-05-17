@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Desenvolvedor em formação e estudante do 7º período de Bacharelado em Ciência da Computação, com interesse em Cibersegurança, Visão Computacional e Bioinformática. Tenho experiência em Python e tecnologias como OpenCV e Mediapipe, com foco em projetos de análise de performance física e soluções aplicadas. Sou apaixonado por aprender e explorar novas ferramentas, sempre buscando aprimorar minhas habilidades e contribuir com projetos práticos e inovadores.
+<p align="left">Desenvolvedor em formação e estudante do 7º período de Bacharelado em Ciência da Computação, com interesse em Cibersegurança, Visão Computacional e Bioinformática. Tenho experiência em Python e tecnologias como OpenCV e Mediapipe, com foco em projetos de análise de performance física e soluções aplicadas. Também faço projetos voltados para desenvolvimento Web. 
 
 <img align="right" alt="" height="250px" src="happycoder.gif">
 
@@ -42,13 +42,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-###
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cauanlsreis/cauanlsreis/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cauanlsreis/cauanlsreis/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cauanlsreis/cauanlsreis/output/github-contribution-grid-snake.svg">
-</picture>
-
-###
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=80&section=footer"/>
