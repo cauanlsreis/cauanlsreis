@@ -18,8 +18,6 @@
 
 <img align="right" alt="" height="250px" src="happycoder.gif">
 
-<h3 align="left">Connect with me!</h3>
-
 <div align="left">
   <a href="mailto: cauanlucas.reis@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
