@@ -4,7 +4,7 @@
 
 # 👨‍💻 Cauan Lucas Silva Reis
 
-<img align="right" alt="" height="200px" src="coding.gif">
+<img align="right" alt="" height="200px" src="coder.webp">
 
 **`Desenvolvedor FullStack | DevOps & DevSecOps`**
 
