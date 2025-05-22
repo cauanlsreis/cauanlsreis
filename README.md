@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006400&size=35&center=true&vCenter=true&width=1000&lines=Cauan+Lucas+Silva+Reis;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006400&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+# 👨‍💻 Cauan Lucas Silva Reis
 
 <img align="right" alt="" height="200px" src="coder.webp">
 
