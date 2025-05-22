@@ -1,5 +1,3 @@
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=80&section=header"/>
 
 # 👨‍💻 Cauan Lucas Silva Reis
@@ -121,6 +119,5 @@ Desenvolvedor em formação e estudante do 7º período de Bacharelado em Ciênc
   <img width=49% height="195px" src="https://github-readme-stats.vercel.app/api?username=cauanlsreis&show_icons=true&count_private=true&hide_border=true&title_color=006400&icon_color=006400&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
   <img  width=41% height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauanlsreis&layout=compact&hide_border=true&title_color=006400&text_color=006400&bg_color=0d1117" />
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=80&section=footer"/>
