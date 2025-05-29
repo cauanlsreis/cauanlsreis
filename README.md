@@ -4,7 +4,7 @@
 
 <img align="right" alt="" height="200px" src="coder.webp">
 
-**`Full Stack | DevOps & DevSecOps`**
+**`Full Stack | DevSecOps`**
 
 Desenvolvedor em formação e estudante do 7º período de Bacharelado em Ciência da Computação, com interesse em Cibersegurança, Visão Computacional e Bioinformática. Tenho experiência em Python e tecnologias como OpenCV e Mediapipe, com foco em projetos de análise de performance física e soluções aplicadas. Também faço projetos voltados para desenvolvimento Web. 
 
