@@ -4,7 +4,7 @@
 
 <img align="right" alt="" height="200px" src="coder.webp">
 
-**`Full Stack | DevSecOps`**
+**`Dev Full Stack | DevSecOps`**
 
 Estudante de Ciência da Computação (7º período) com foco em Backend, Ciência de Dados e Visão Computacional. Tenho experiência em Python e tecnologias como OpenCV e Mediapipe, com foco em projetos de análise de performance física e soluções aplicadas. Tenho experiência prática com Python, OpenCV, Mediapipe e Django, desenvolvendo soluções para análise de performance física, APIs web e automações. Também atuo em projetos de análise de dados com Pandas e NumPy.
 
